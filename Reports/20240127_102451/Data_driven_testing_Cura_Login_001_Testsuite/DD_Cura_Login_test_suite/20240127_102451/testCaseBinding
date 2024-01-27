@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/Data_Driven_Testing_Cura_Login_001/TC_Cura_Login__001_DD","testCaseId":"Test Cases/Data_Driven_Testing_Cura_Login_001/TC_Cura_Login__001_DD","iterationVariableName":"","bindedValues":{"Username":"\u0027John Doe\u0027","Password":"\u0027ThisIsNotAPassword\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing_Cura_Login_001/TC_Cura_Login__001_DD","testCaseId":"Test Cases/Data_Driven_Testing_Cura_Login_001/TC_Cura_Login__001_DD","iterationVariableName":"","bindedValues":{"Username":"\u0027John Doe\u0027","Password":"\u002712345\u0027"}}

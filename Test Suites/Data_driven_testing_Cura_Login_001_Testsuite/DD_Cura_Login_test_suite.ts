@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DD_Cura_Login_test_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5539eafc-9a80-4ab6-a4ea-b7202273a3f9</testSuiteGuid>
+   <testCaseLink>
+      <guid>f8277678-70e9-4eab-ba67-36c9a6d4fd29</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_Driven_Testing_Cura_Login_001/TC_Cura_Login__001_DD</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>10285abc-a6cf-467c-adc9-9d704722fd0e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Cura_Login_DataDriven/Cura_Login_001_DD_Testdata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>10285abc-a6cf-467c-adc9-9d704722fd0e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>36ccb7bb-ccac-480b-8d7b-d723a1352e80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>10285abc-a6cf-467c-adc9-9d704722fd0e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>4587f1d6-ea9f-4f50-b8d0-04e2ff61980e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
