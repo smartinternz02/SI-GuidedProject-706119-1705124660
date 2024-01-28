@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Cura_Make_Appointment_setup_teardown,Chrome 121.0.0.0,,,27-01-2024 12:20:24,27-01-2024 12:20:55,31.023s,FAILED
+,,,,,,,
+Test Cases/Setup and Teardown_Make_Appointment/TC_Cura_Make_Appointment_setup_teardown,Chrome 121.0.0.0,,,27-01-2024 12:20:54,27-01-2024 12:20:55,0.820s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,27-01-2024 12:20:54,27-01-2024 12:20:54,0.192s,ERROR
+"setText(findTestObject(""Object Repository/Cura_Make_Appointment_setup_teardown_ob/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Chrome 121.0.0.0,,,27-01-2024 12:20:54,27-01-2024 12:20:55,0.231s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,27-01-2024 12:20:55,27-01-2024 12:20:55,0.315s,ERROR
