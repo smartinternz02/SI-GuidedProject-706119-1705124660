@@ -37,9 +37,9 @@ def setUp() {
 	
 	WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 	
-	WebUI.click(findTestObject('Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/i_fa fa-bars'))
+	WebUI.click(findTestObject('Object Repository/Test Listener_Cura_Logout_object_repository/Page_CURA Healthcare Service/i_fa fa-bars'))
 	
-	WebUI.click(findTestObject('Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/a_Login'))
+	WebUI.click(findTestObject('Object Repository/Test Listener_Cura_Logout_object_repository/Page_CURA Healthcare Service/a_Login'))
 }
 /**
  * Clean test suites environment.

@@ -29,13 +29,13 @@ class TestListener_Cura_Logout {
 	 */
 	@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
-		WebUI.setText(findTestObject('Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/input_username'),
+		WebUI.setText(findTestObject('Object Repository/Test Listener_Cura_Logout_object_repository/Page_CURA Healthcare Service/input_username'),
 			'John Doe')
 		
-		WebUI.setEncryptedText(findTestObject('Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/input_password'),
+		WebUI.setEncryptedText(findTestObject('Object Repository/Test Listener_Cura_Logout_object_repository/Page_CURA Healthcare Service/input_password'),
 			'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 		
-		WebUI.click(findTestObject('Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/button_Login'))
+		WebUI.click(findTestObject('Object Repository/Test Listener_Cura_Logout_object_repository/Page_CURA Healthcare Service/button_Login'))
 	}
 
 	/**
