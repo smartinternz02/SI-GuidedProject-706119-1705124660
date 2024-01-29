@@ -17,22 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+//WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+//WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/i_fa fa-bars'))
+//WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/i_fa fa-bars'))
 
-WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/a_Login'))
+//WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/a_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/input_username'), 
-    'John Doe')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/input_password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
-WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/button_Login'))
-
+//WebUI.setText(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/input_username'), 
+//'John Doe')
+//WebUI.setEncryptedText(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/input_password'), 
+//'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+//WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/button_Login'))
 WebUI.selectOptionByValue(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Hongkong CURA Healthcare Center', true)
 
@@ -44,5 +41,7 @@ WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object
 
 WebUI.click(findTestObject('Object Repository/Cura Appointment check box_ object repository/Page_CURA Healthcare Service/button_Book Appointment'))
 
-WebUI.closeBrowser()
+//WebUI.delay(5)
+
+//WebUI.closeBrowser()
 
