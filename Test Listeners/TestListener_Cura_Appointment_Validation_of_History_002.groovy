@@ -29,13 +29,14 @@ class TestListener_Cura_Appointment_Validation_of_History_002 {
 	 */
 	@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
-		WebUI.setText(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/input_username'),
+		WebUI.setText(findTestObject('Object Repository/Cura_Appointment_Validation_of history_test_listener_or/Page_CURA Healthcare Service/input_username'),
 			'John Doe')
 		
-		WebUI.setEncryptedText(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/input_password'),
+		WebUI.setEncryptedText(findTestObject('Object Repository/Cura_Appointment_Validation_of history_test_listener_or/Page_CURA Healthcare Service/input_password'),
 			'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 		
-		WebUI.click(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/button_Login'))
+		WebUI.click(findTestObject('Object Repository/Cura_Appointment_Validation_of history_test_listener_or/Page_CURA Healthcare Service/button_Login'))
+		
 	}
 
 	/**
