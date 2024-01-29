@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Cura_Logout_Jenkins_001</name>
+   <name>TC_Cura_Logout__001_TL</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c66cc347-de3d-4d7f-a332-c0e36d748070</testCaseGuid>
