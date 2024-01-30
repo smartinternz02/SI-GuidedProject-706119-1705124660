@@ -29,13 +29,13 @@ class TestListener_Cura_Make_Appointment_Confirmation {
 	 */
 	@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
-		WebUI.setText(findTestObject('Object Repository/Cura Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/input_username'),
+		WebUI.setText(findTestObject('Object Repository/Cura_Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/input_username'),
 			'John Doe')
 		
-		WebUI.setEncryptedText(findTestObject('Object Repository/Cura Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/input_password'),
+		WebUI.setEncryptedText(findTestObject('Object Repository/Cura_Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/input_password'),
 			'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 		
-		WebUI.click(findTestObject('Object Repository/Cura Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/button_Login'))
+		WebUI.click(findTestObject('Object Repository/Cura_Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/button_Login'))
 		
 	}
 
@@ -46,9 +46,9 @@ class TestListener_Cura_Make_Appointment_Confirmation {
 	@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
 		
-		WebUI.click(findTestObject('Object Repository/Cura Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/i_fa fa-bars'))
+		WebUI.click(findTestObject('Object Repository/Cura_Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/i_fa fa-bars'))
 		
-		WebUI.click(findTestObject('Object Repository/Cura Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/a_Logout'))
+		WebUI.click(findTestObject('Object Repository/Cura_Appoinment_Test_Listener_OR/Page_CURA Healthcare Service/a_Logout'))
 		
 	}
 
