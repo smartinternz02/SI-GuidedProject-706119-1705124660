@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Cura_Appointment_Validation of History_002_KRE</name>
+   <name>TC_Cura_Validation of History_002</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a8c1e4ac-b45a-4e34-ae17-9e48a48a0456</testCaseGuid>

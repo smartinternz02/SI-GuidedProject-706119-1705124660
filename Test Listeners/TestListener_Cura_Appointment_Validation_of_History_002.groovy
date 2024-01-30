@@ -45,7 +45,7 @@ class TestListener_Cura_Appointment_Validation_of_History_002 {
 	 */
 	@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
-		WebUI.click(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/a_Go to Homepage'))
+		WebUI.click(findTestObject('Object Repository/jenkins_Validation_of history_or/Page_CURA Healthcare Service/a_Go to Homepage'))
 		
 	}
 

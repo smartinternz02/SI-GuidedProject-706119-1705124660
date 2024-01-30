@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FolderEntity>
    <description>folder</description>
-   <name>KRE_Cura_Appointment_Validation_of_History</name>
+   <name>jenkins_Validation_of_History_ts</name>
    <tag></tag>
    <folderType>TESTSUITE</folderType>
 </FolderEntity>

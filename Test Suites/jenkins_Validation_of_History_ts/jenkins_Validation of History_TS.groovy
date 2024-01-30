@@ -37,9 +37,9 @@ def setUp() {
 	
 	WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 	
-	WebUI.click(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/i_fa fa-bars'))
+	WebUI.click(findTestObject('Object Repository/jenkins_Validation_of history_or/Page_CURA Healthcare Service/i_fa fa-bars'))
 	
-	WebUI.click(findTestObject('Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/a_Login'))
+	WebUI.click(findTestObject('Object Repository/jenkins_Validation_of history_or/Page_CURA Healthcare Service/a_Login'))
 	
 }
 

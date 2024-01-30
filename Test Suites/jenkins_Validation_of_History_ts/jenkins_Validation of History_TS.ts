@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>KRE_Cura_Appointment_Validation of History_001_Testsuite</name>
+   <name>jenkins_Validation of History_TS</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>d807db97-b421-4712-802d-4d10bcf2905c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/KRE_Validation of History/TC_Cura_Appointment_Validation of History_002_KRE</testCaseId>
+      <testCaseId>Test Cases/Jenkins_Validation of History/TC_Cura_Validation of History_002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
