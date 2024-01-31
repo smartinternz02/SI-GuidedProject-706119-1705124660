@@ -3,10 +3,18 @@
    <description></description>
    <name>SI-GuidedProject-706119-1705124660</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>2da5ea56-2a80-4701-ac0d-986528131ec0</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+=======
+   <UUID>1d0eda42-c729-4e44-98ff-55a82f6607e9</UUID>
+   <freeLicense>false</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\sneha\Katalon Studio\SI-GuidedProject-706119-1705124660\SI-GuidedProject-706119-1705124660.prj</projectFileLocation>
+>>>>>>> 2d140ff2574137a1cbeaafde98e1e96cc18c5c0d
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

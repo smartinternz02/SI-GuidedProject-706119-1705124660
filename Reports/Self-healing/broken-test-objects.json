@@ -1,3 +1,18 @@
 {
+<<<<<<< HEAD
   "brokenTestObjects" : [ ]
+=======
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/a_Go to Homepage",
+      "brokenLocator": "//section[@id\u003d\u0027history\u0027]/div/div[3]/p/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Go to Homepage\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/a_Go to Homepage_link.png"
+    }
+  ]
+>>>>>>> 2d140ff2574137a1cbeaafde98e1e96cc18c5c0d
 }

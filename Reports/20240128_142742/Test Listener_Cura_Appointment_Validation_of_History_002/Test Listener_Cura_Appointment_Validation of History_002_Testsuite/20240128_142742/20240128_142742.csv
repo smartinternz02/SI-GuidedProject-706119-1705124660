@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Listener_Cura_Appointment_Validation of History_002_Testsuite,Chrome 121.0.0.0,,,28-01-2024 14:27:52,28-01-2024 14:28:52,1m - 0.711s,PASSED
+,,,,,,,
+Test Cases/Test_Listener_Validation of History/TC_Cura_Appointment_Validation of History_002_TL,Chrome 121.0.0.0,,,28-01-2024 14:28:03,28-01-2024 14:28:52,49.492s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:28:03,28-01-2024 14:28:07,3.842s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:28:07,28-01-2024 14:28:42,34.812s,ERROR
+"selectOptionByValue(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,28-01-2024 14:28:42,28-01-2024 14:28:43,1.243s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/input_hospital_readmission""))",Chrome 121.0.0.0,,,28-01-2024 14:28:43,28-01-2024 14:28:44,0.582s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/input_programs""))",Chrome 121.0.0.0,,,28-01-2024 14:28:44,28-01-2024 14:28:44,0.549s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Chrome 121.0.0.0,,,28-01-2024 14:28:44,28-01-2024 14:28:45,0.469s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/td_23""))",Chrome 121.0.0.0,,,28-01-2024 14:28:45,28-01-2024 14:28:45,0.596s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,28-01-2024 14:28:45,28-01-2024 14:28:47,1.929s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,28-01-2024 14:28:47,28-01-2024 14:28:48,0.555s,PASSED
+"click(findTestObject(""Object Repository/Test_Listener_Validation_of history_or/Page_CURA Healthcare Service/a_History""))",Chrome 121.0.0.0,,,28-01-2024 14:28:48,28-01-2024 14:28:49,0.989s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:28:49,28-01-2024 14:28:51,1.816s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:28:51,28-01-2024 14:28:52,1.740s,PASSED

@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Cura_Logout_001_test_suite,Chrome 121.0.0.0,,,29-01-2024 16:10:16,29-01-2024 16:14:21,4m - 4.194s,PASSED
+,,,,,,,
+Test Cases/Test Listener_Cura_Logout/TC_Cura_Logout__001_TL,Chrome 121.0.0.0,,,29-01-2024 16:10:27,29-01-2024 16:14:21,3m - 53.339s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 16:10:27,29-01-2024 16:10:31,3.437s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 16:10:31,29-01-2024 16:11:06,34.793s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 16:11:06,29-01-2024 16:11:40,34.735s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 16:11:40,29-01-2024 16:12:15,34.639s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 16:12:15,29-01-2024 16:12:50,34.729s,ERROR
+"click(findTestObject(""Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,29-01-2024 16:12:50,29-01-2024 16:12:50,0.467s,PASSED
+"click(findTestObject(""Object Repository/Jenkins_Cura_Logout_object_repository/Page_CURA Healthcare Service/a_Logout""))",Chrome 121.0.0.0,,,29-01-2024 16:12:50,29-01-2024 16:12:53,2.962s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 16:12:53,29-01-2024 16:12:58,5.099s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 16:12:58,29-01-2024 16:13:04,5.027s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 16:13:04,29-01-2024 16:13:40,36.727s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 16:13:40,29-01-2024 16:13:44,4.038s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 16:13:44,29-01-2024 16:14:21,36.311s,ERROR

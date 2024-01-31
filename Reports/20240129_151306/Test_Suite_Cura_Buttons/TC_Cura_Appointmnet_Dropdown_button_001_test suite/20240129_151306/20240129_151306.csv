@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Cura_Appointmnet_Dropdown_button_001_test suite,Chrome 121.0.0.0,,,29-01-2024 15:13:27,29-01-2024 15:15:43,2m - 15.271s,PASSED
+,,,,,,,
+Test Cases/Buttons/TC_Cura_Appointmnet_Drop_down_button_002,Chrome 121.0.0.0,,,29-01-2024 15:13:44,29-01-2024 15:15:43,1m - 59.054s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 15:13:44,29-01-2024 15:13:48,4.183s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 15:13:48,29-01-2024 15:14:23,35.034s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,29-01-2024 15:14:23,29-01-2024 15:14:58,34.837s,ERROR
+"selectOptionByValue(findTestObject(""Object Repository/Cura_Make_Appointment_object_repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,29-01-2024 15:14:58,29-01-2024 15:15:00,1.269s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 15:15:00,29-01-2024 15:15:05,5.163s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 15:15:05,29-01-2024 15:15:40,34.898s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,29-01-2024 15:15:40,29-01-2024 15:15:43,3.006s,PASSED
