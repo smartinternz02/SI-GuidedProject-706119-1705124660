@@ -1,1 +1,0 @@
-Test Suites/Data Driven test_Cura_login_test suite_collection/DD_Cura_Login_Test Suite Collection
