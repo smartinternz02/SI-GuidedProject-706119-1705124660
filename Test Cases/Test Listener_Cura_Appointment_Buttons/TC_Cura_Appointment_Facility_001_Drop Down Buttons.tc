@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cura_Appointment_Facility_001_Drop Down Buttons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbeac352-8211-4f22-8fb7-2ad6da560305</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0c86476-0cca-40f4-bf24-9ad407eca851</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d0c86476-0cca-40f4-bf24-9ad407eca851</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+</TestCaseEntity>
