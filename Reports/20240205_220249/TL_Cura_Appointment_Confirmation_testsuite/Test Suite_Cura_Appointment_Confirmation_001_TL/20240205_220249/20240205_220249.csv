@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_Cura_Appointment_Confirmation_001_TL,Chrome 121.0.0.0,,,05-02-2024 22:02:55,05-02-2024 22:03:20,24.243s,PASSED
+,,,,,,,
+Test Cases/TestListener_Cura_Appointment_confirmation/TC_cura_Appoitment_Confirmation_001_TL,Chrome 121.0.0.0,,,05-02-2024 22:03:07,05-02-2024 22:03:20,12.508s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,05-02-2024 22:03:07,05-02-2024 22:03:11,3.894s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 121.0.0.0,,,05-02-2024 22:03:12,05-02-2024 22:03:13,1.289s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Chrome 121.0.0.0,,,05-02-2024 22:03:13,05-02-2024 22:03:14,0.631s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/input_programs""))",Chrome 121.0.0.0,,,05-02-2024 22:03:14,05-02-2024 22:03:14,0.634s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,05-02-2024 22:03:14,05-02-2024 22:03:15,0.632s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/td_20""))",Chrome 121.0.0.0,,,05-02-2024 22:03:15,05-02-2024 22:03:15,0.542s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,05-02-2024 22:03:15,05-02-2024 22:03:18,2.200s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,05-02-2024 22:03:18,05-02-2024 22:03:20,2.138s,PASSED
