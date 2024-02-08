@@ -1,9 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Test Suite_cura_Logout_001_TL,Chrome 121.0.0.0,,,06-02-2024 16:32:43,06-02-2024 16:34:50,2m - 6.727s,PASSED
-,,,,,,,
-Test Cases/TL_Cura_Logout_validation/Test Case_Cura_Logout_001_tl,Chrome 121.0.0.0,,,06-02-2024 16:33:58,06-02-2024 16:34:50,52.200s,PASSED
-Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 16:33:58,06-02-2024 16:34:03,5.018s,PASSED
-Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 16:34:03,06-02-2024 16:34:38,34.895s,ERROR
-delay(3),Chrome 121.0.0.0,,,06-02-2024 16:34:38,06-02-2024 16:34:41,3.090s,PASSED
-Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 16:34:41,06-02-2024 16:34:46,4.945s,PASSED
-Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 16:34:46,06-02-2024 16:34:50,3.930s,PASSED
