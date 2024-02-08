@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_cura_logout_001_jenkins</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7912d10-36d1-438c-858f-f041c58d228d</testCaseGuid>
+</TestCaseEntity>
