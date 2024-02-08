@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_Cura_Appointment_Confirmation_001_TL,Firefox 122.0,,,05-02-2024 22:10:09,05-02-2024 22:10:47,37.710s,PASSED
+,,,,,,,
+Test Cases/TestListener_Cura_Appointment_confirmation/TC_cura_Appoitment_Confirmation_001_TL,Firefox 122.0,,,05-02-2024 22:10:35,05-02-2024 22:10:47,11.218s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 122.0,,,05-02-2024 22:10:35,05-02-2024 22:10:39,3.309s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Firefox 122.0,,,05-02-2024 22:10:39,05-02-2024 22:10:41,1.702s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Firefox 122.0,,,05-02-2024 22:10:41,05-02-2024 22:10:41,0.560s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/input_programs""))",Firefox 122.0,,,05-02-2024 22:10:41,05-02-2024 22:10:42,0.774s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Firefox 122.0,,,05-02-2024 22:10:42,05-02-2024 22:10:43,0.659s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/td_20""))",Firefox 122.0,,,05-02-2024 22:10:43,05-02-2024 22:10:43,0.580s,PASSED
+"click(findTestObject(""Object Repository/TL_Cura_Appointment_Confirmation_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Firefox 122.0,,,05-02-2024 22:10:43,05-02-2024 22:10:44,1.145s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 122.0,,,05-02-2024 22:10:44,05-02-2024 22:10:47,2.034s,PASSED

@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_Cura_Logout_002_jenkins,Chrome 121.0.0.0,,,06-02-2024 19:28:44,06-02-2024 19:29:11,27.145s,PASSED
+,,,,,,,
+Test Cases/jenkins_cura_logout/TC_cura_logout_001_jenkins,Chrome 121.0.0.0,,,06-02-2024 19:28:44,06-02-2024 19:29:11,26.879s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 19:28:44,06-02-2024 19:28:45,0.818s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 19:28:45,06-02-2024 19:28:45,0.102s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 19:28:45,06-02-2024 19:28:49,4.298s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 121.0.0.0,,,06-02-2024 19:28:49,06-02-2024 19:28:58,9.127s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,06-02-2024 19:28:58,06-02-2024 19:28:59,0.562s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/a_Login""))",Chrome 121.0.0.0,,,06-02-2024 19:28:59,06-02-2024 19:29:01,1.663s,PASSED
+"setText(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Chrome 121.0.0.0,,,06-02-2024 19:29:01,06-02-2024 19:29:02,1.013s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 121.0.0.0,,,06-02-2024 19:29:02,06-02-2024 19:29:02,0.671s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/button_Login""))",Chrome 121.0.0.0,,,06-02-2024 19:29:02,06-02-2024 19:29:04,2.217s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,06-02-2024 19:29:04,06-02-2024 19:29:05,0.503s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/a_Logout""))",Chrome 121.0.0.0,,,06-02-2024 19:29:05,06-02-2024 19:29:06,1.234s,PASSED
+delay(3),Chrome 121.0.0.0,,,06-02-2024 19:29:06,06-02-2024 19:29:09,3.041s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 19:29:09,06-02-2024 19:29:10,1.079s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 19:29:10,06-02-2024 19:29:10,0.133s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 19:29:10,06-02-2024 19:29:11,0.280s,ERROR

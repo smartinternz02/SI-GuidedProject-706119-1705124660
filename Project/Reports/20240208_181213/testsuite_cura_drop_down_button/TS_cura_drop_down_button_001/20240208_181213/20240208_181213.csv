@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_cura_drop_down_button_001,Chrome 121.0.0.0,,,08-02-2024 18:12:18,08-02-2024 18:12:35,17.610s,PASSED
+,,,,,,,
+Test Cases/Buttons/TC_Cura_drop_down_button_001,Chrome 121.0.0.0,,,08-02-2024 18:12:18,08-02-2024 18:12:35,17.281s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 18:12:18,08-02-2024 18:12:19,0.600s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,08-02-2024 18:12:19,08-02-2024 18:12:19,0.221s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,08-02-2024 18:12:19,08-02-2024 18:12:21,1.991s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 121.0.0.0,,,08-02-2024 18:12:21,08-02-2024 18:12:27,5.947s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,08-02-2024 18:12:27,08-02-2024 18:12:27,0.466s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 121.0.0.0,,,08-02-2024 18:12:27,08-02-2024 18:12:28,1.076s,PASSED
+"setText(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Chrome 121.0.0.0,,,08-02-2024 18:12:28,08-02-2024 18:12:29,0.750s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 121.0.0.0,,,08-02-2024 18:12:29,08-02-2024 18:12:30,0.560s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 121.0.0.0,,,08-02-2024 18:12:30,08-02-2024 18:12:31,1.069s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), facility, true)",Chrome 121.0.0.0,,,08-02-2024 18:12:31,08-02-2024 18:12:32,1.107s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Chrome 121.0.0.0,,,08-02-2024 18:12:32,08-02-2024 18:12:32,0.424s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/td_29""))",Chrome 121.0.0.0,,,08-02-2024 18:12:32,08-02-2024 18:12:33,0.517s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,08-02-2024 18:12:33,08-02-2024 18:12:34,0.845s,PASSED
+"click(findTestObject(""Object Repository/cura_drop_down_button_OR/Page_CURA Healthcare Service/a_Go to Homepage""))",Chrome 121.0.0.0,,,08-02-2024 18:12:34,08-02-2024 18:12:35,0.843s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,08-02-2024 18:12:35,08-02-2024 18:12:35,0.291s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 18:12:35,08-02-2024 18:12:35,0.142s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,08-02-2024 18:12:35,08-02-2024 18:12:35,0.105s,ERROR
