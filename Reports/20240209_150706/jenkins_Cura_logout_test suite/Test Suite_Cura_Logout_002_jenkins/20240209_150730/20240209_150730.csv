@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite_Cura_Logout_002_jenkins,Chrome 121.0.0.0,,,09-02-2024 15:07:43,09-02-2024 15:07:56,13.633s,FAILED
+,,,,,,,
+Test Cases/jenkins_cura_logout/TC_cura_logout_001_jenkins,Chrome 121.0.0.0,,,09-02-2024 15:07:43,09-02-2024 15:07:56,12.958s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,09-02-2024 15:07:43,09-02-2024 15:07:45,1.897s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,09-02-2024 15:07:45,09-02-2024 15:07:46,0.319s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,09-02-2024 15:07:46,09-02-2024 15:07:54,7.936s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 121.0.0.0,,,09-02-2024 15:07:54,09-02-2024 15:07:55,1.302s,PASSED
+"click(findTestObject(""Object Repository/jenkin_cura_logout/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,09-02-2024 15:07:55,09-02-2024 15:07:55,0.429s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,09-02-2024 15:07:55,09-02-2024 15:07:56,0.388s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,09-02-2024 15:07:56,09-02-2024 15:07:56,0.353s,ERROR
